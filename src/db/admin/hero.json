@@ -1,0 +1,25 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "image": "assets/images/CUET_View/Golchottor.jpg",
+            "title": "Welcome to Our Platform",
+            "description": "Explore the world of admin control",
+            "buttonText": "Get Started"
+          },
+          {
+            "id": 2,
+            "image": "assets/images/CUET_View/21_university_day.jpg",
+            "title": "Welcome to Our Platform",
+            "description": "Explore the world of admin control",
+            "buttonText": "Get Started"
+          },
+          {
+            "id": 3,
+            "image": "assets/images/CUET_View/Incubator.jpg",
+            "title": "Welcome to Our Platform",
+            "description": "Explore the world of admin control",
+            "buttonText": "Get Started"
+          }
+    ]
+}

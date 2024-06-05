@@ -1,0 +1,22 @@
+[
+  { "id": 1, "place": "CUET-palace-1", "time": "01:00 AM - 08:00 AM" },
+  { "id": 2, "place": "CUET-palace-2", "time": "01:00 AM - 08:00 AM" },
+  { "id": 3, "place": "CUET-palace-3", "time": "01:00 AM - 08:00 AM" },
+  { "id": 4, "place": "CUET-palace-4", "time": "08:00 AM - 04:00 PM" },
+  { "id": 5, "place": "CUET-palace-5", "time": "08:00 AM - 04:00 PM" },
+  { "id": 6, "place": "CUET-palace-6", "time": "08:00 AM - 04:00 PM" },
+  { "id": 7, "place": "CUET-palace-7", "time": "04:00 PM - 12:00 AM" },
+  { "id": 8, "place": "CUET-palace-8", "time": "04:00 PM - 12:00 AM" },
+  { "id": 9, "place": "CUET-palace-9", "time": "04:00 PM - 12:00 AM" },
+  { "id": 10, "place": "CUET-palace-10", "time": "01:00 AM - 08:00 AM" },
+  { "id": 11, "place": "CUET-palace-11", "time": "01:00 AM - 08:00 AM" },
+  { "id": 12, "place": "CUET-palace-12", "time": "01:00 AM - 08:00 AM" },
+  { "id": 13, "place": "CUET-palace-13", "time": "08:00 AM - 04:00 PM" },
+  { "id": 14, "place": "CUET-palace-14", "time": "08:00 AM - 04:00 PM" },
+  { "id": 15, "place": "CUET-palace-15", "time": "08:00 AM - 04:00 PM" },
+  { "id": 16, "place": "CUET-palace-16", "time": "04:00 PM - 12:00 AM" },
+  { "id": 17, "place": "CUET-palace-17", "time": "04:00 PM - 12:00 AM" },
+  { "id": 18, "place": "CUET-palace-18", "time": "04:00 PM - 12:00 AM" },
+  { "id": 19, "place": "CUET-palace-19", "time": "01:00 AM - 08:00 AM" },
+  { "id": 20, "place": "CUET-palace-20", "time": "01:00 AM - 08:00 AM" }
+]

@@ -1,0 +1,39 @@
+.styled-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.styled-table th,
+.styled-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.styled-table th {
+  background-color: #f2f2f2;
+  color: black;
+}
+
+.styled-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+  /* color for odd rows */
+}
+
+.styled-table tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+  /* color for even rows */
+}
+
+.pagination-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.active-pagination-button {
+  background-color: #007bff;
+  color: white !important;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
